@@ -1,4 +1,3 @@
-
 function makeGrid() {    
 // Select color input
 // Select size input
@@ -35,4 +34,3 @@ submitB.click(function(e){
     e.preventDefault();
     makeGrid();
 });
-// Your code goes here!
